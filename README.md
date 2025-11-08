@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rutuja
 
-### A data-driven problem solver with a passion for Data Science, Machine Learning, and AI
+### A data-driven problem solver passionate about Data Science, Machine Learning, and AI
 
 ---
 
@@ -22,8 +22,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=rj05-ux&theme=flat&margin-w=10)
+### 🧠 Skills & Tools
+Python • Machine Learning • Deep Learning • NLP • Power BI • Tableau • SQL • Data Visualization
 
 ---
 
