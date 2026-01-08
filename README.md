@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Data Science Enthusiast | Machine Learning Explorer</b> <br>
+  <b>Data Science Enthusiast | Machine Learning Explorer</b><br>
   Turning data into insightful solutions
 </p>
 
@@ -12,7 +12,7 @@
 
 ## 🌱 About Me
 
-<img align="right" alt="Data Scientist Illustration" width="280" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" />
+<img align="right" alt="Aspiring Data Scientist" width="280" src="https://cdn-icons-png.flaticon.com/512/2922/2922561.png" />
 
 - 🎓 **Data Science Student** at *Symbiosis Skills and Professional University*
 - 🚀 Passionate about **Machine Learning and Data-Driven Problem Solving**
@@ -27,7 +27,7 @@
 - Data Analysis & Visualization  
 - Machine Learning & Predictive Modeling  
 - Natural Language Processing  
-- Big Data & Scalable Analytics  
+- Big Data Analytics  
 - Research-oriented Problem Solving  
 
 ---
@@ -53,7 +53,7 @@
 I enjoy working on projects that convert raw data into meaningful insights and practical solutions.
 
 - **Sentiment Analysis on Social Media Data**  
-  Developed an NLP workflow to analyze public sentiment using text preprocessing, feature extraction, and machine learning models.
+  Developed an NLP workflow to analyze public sentiment using preprocessing, feature extraction, and machine learning models.
 
 - **Retail Sales Data Analysis & Insights**  
   Explored customer behavior and sales trends through exploratory data analysis and visualization techniques.
@@ -69,8 +69,8 @@ I enjoy working on projects that convert raw data into meaningful insights and p
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" width="48%" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ I enjoy working on projects that convert raw data into meaningful insights and p
 ## 🏆 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
 </p>
 
 ---
@@ -87,3 +87,9 @@ I enjoy working on projects that convert raw data into meaningful insights and p
 I’m always open to learning, collaboration, and meaningful discussions around data and AI.
 
 📧 **Email:** rutujapj1974@gmail.com
+
+---
+
+<p align="center">
+  <i>Thank you for visiting — feel free to explore my repositories and connect!</i>
+</p>
