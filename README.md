@@ -69,8 +69,8 @@ I enjoy working on projects that convert raw data into meaningful insights and p
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rj05-ux&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj05-ux" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rj05-ux&show_icons=true&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj05-ux&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -78,8 +78,9 @@ I enjoy working on projects that convert raw data into meaningful insights and p
 ## 🏆 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj05-ux&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj05-ux&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ---
 
