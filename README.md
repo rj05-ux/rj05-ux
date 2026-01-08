@@ -12,7 +12,7 @@
 
 ## 🌱 About Me
 
-<img align="right" alt="Aspiring Data Scientist" width="280" src="https://cdn-icons-png.flaticon.com/512/2922/2922561.png" />
+<img align="right" alt="Data Science Illustration" width="280" src="https://cdn-icons-png.flaticon.com/512/2922/2922561.png" />
 
 - 🎓 **Data Science Student** at *Symbiosis Skills and Professional University*
 - 🚀 Passionate about **Machine Learning and Data-Driven Problem Solving**
@@ -69,8 +69,8 @@ I enjoy working on projects that convert raw data into meaningful insights and p
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutujajadhav&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujajadhav" width="48%" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ I enjoy working on projects that convert raw data into meaningful insights and p
 ## 🏆 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujajadhav&layout=compact" />
 </p>
 
 ---
