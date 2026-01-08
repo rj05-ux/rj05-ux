@@ -67,19 +67,24 @@ I enjoy working on projects that convert raw data into meaningful insights and p
 ---
 
 ## 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujajadhav&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujajadhav" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rj05-ux&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj05-ux" width="48%" />
 </p>
 
 ---
 
 ## 🏆 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujajadhav&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj05-ux&layout=compact" />
 </p>
+
+---
+
+## 🎯 Career Vision
+- 📌 Build a strong foundation as a **Data Scientist / Data Analyst**  
+- 📌 Contribute to impactful, data-driven projects  
+- 📌 Pursue advanced research opportunities in **Data Science**
 
 ---
 
