@@ -1,79 +1,89 @@
-<!-- Header Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6E6FA&height=180&section=header&text=Hey%20There!%20I'm%20Rutuja%20Jadhav&fontSize=40&fontColor=333333&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=Rutuja%20Jadhav&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Internships" />
+</p>
+
+---
+
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rj05-ux/rj05-ux/main/profile.png" 
+       width="180" 
+       style="border-radius:50%; border:4px solid #6C63FF;" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Data Science Postgraduate at **Symbiosis Skills and Professional University**
+- 💡 Passionate about solving real-world problems using **ML & Analytics**
+- 📊 Strong in **EDA, NLP, Predictive Modeling, Dashboards**
+- 🚀 Building projects that combine **business + data science**
+- 🤝 Open to **internships, research, and collaborations**
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sql,c,git,github" /><br>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow" /><br>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Customer Churn Analysis
+✔ Built end-to-end ML pipeline  
+✔ Focused on improving recall for churn prediction  
+✔ Feature engineering + model evaluation  
+
+🔗 https://github.com/rj05-ux/customer-churn-analysis  
+
+---
+
+### 🔹 Customer Intelligence System (RFM)
+✔ Performed RFM segmentation  
+✔ Applied clustering for customer groups  
+✔ Built dashboard for business insights  
+
+🔗 https://github.com/rj05-ux/Customer-Intelligence-System-using-RFM-Machine-Learning  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rj05-ux&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <b>Data Science Enthusiast | Machine Learning Explorer</b><br>
-  Turning data into insightful solutions
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj05-ux&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌱 About Me
-
-<img align="right" alt="Data Science Illustration" width="280" src="https://cdn-icons-png.flaticon.com/512/2922/2922561.png" />
-
-- 🎓 **Data Science Student** at *Symbiosis Skills and Professional University*
-- 🚀 Passionate about **Machine Learning and Data-Driven Problem Solving**
-- 📚 Currently learning **Deep Learning, NLP, and Big Data Analytics**
-- 🤝 Open to collaborating on **AI, Data Science, and Research-based projects**
-- 💬 Ask me about **Python, Machine Learning, Power BI, and Data Visualization**
-- 📧 Reach me at **rutujapj1974@gmail.com**
-
----
-
-## 🧠 Areas of Interest
-- Data Analysis & Visualization  
-- Machine Learning & Predictive Modeling  
-- Natural Language Processing  
-- Big Data Analytics  
-- Research-oriented Problem Solving  
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**  
-`Python` `SQL` `C`
-
-**Data Science & Machine Learning**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn`  
-`Scikit-learn` `Machine Learning` `NLP`
-
-**Analytics & BI Tools**  
-`Power BI` `Data Visualization` `EDA`
-
-**Tools & Platforms**  
-`Git` `GitHub` `Jupyter Notebook`
-
----
-
-## 🧪 Selected Projects
-I enjoy working on projects that convert raw data into meaningful insights and practical solutions.
-
-- **Sentiment Analysis on Social Media Data**  
-  Developed an NLP workflow to analyze public sentiment using preprocessing, feature extraction, and machine learning models.
-
-- **Retail Sales Data Analysis & Insights**  
-  Explored customer behavior and sales trends through exploratory data analysis and visualization techniques.
-
-- **Fraud Detection & Predictive Analytics**  
-  Applied machine learning models to identify anomalous patterns, focusing on feature engineering and evaluation.
-
-- **Wine Quality Prediction**  
-  Built predictive models to understand quality drivers using statistical and machine learning approaches.
-
-
----
-
-## 🤝 Let’s Connect
-I’m always open to learning, collaboration, and meaningful discussions around data and AI.
-
-📧 **Email:** rutujapj1974@gmail.com
-
----
+## 🐍 Contribution Graph
 
 <p align="center">
-  <i>Thank you for visiting — feel free to explore my repositories and connect!</i>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:rutujapj1974@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/rutuja-jadhav-592388321">LinkedIn</a> •
+  <a href="https://github.com/rj05-ux">GitHub</a>
 </p>
