@@ -37,7 +37,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/rj05-ux/rj05-ux/main/Rutuja_Jadhav_Resume.pdf">
+  <a href="https://github.com/rj05-ux/rj05-ux/blob/main/Rutuja_Jadhav_Resume_.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-00C9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
