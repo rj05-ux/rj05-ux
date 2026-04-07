@@ -74,26 +74,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rj05-ux&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj05-ux&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🏆 Achievements (Add Later)
 
 - 🥇 Built multiple ML projects with real-world datasets  
