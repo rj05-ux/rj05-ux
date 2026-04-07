@@ -10,15 +10,6 @@
 
 ---
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://github.com/rj05-ux/rj05-ux/blob/main/IMG-20241211-WA0076.jpg"
-       width="170" 
-       style="border-radius:50%; border:4px solid #00C9FF;" />
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 - 🎓 Data Science Postgraduate @ **Symbiosis Skills and Professional University**
