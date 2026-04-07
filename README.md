@@ -74,7 +74,7 @@
 
 ---
 
-## 🏆 Achievements (Add Later)
+## 🏆 Achievements 
 
 - 🥇 Built multiple ML projects with real-world datasets  
 - 📊 Strong focus on business-driven analytics  
