@@ -14,37 +14,30 @@
 
 - 🎓 Data Science Postgraduate @ **Symbiosis Skills and Professional University**
 - 💡 Focused on **Machine Learning, NLP & Data Analytics**
-- 📊 Skilled in **EDA, ML Pipelines, Dashboards**
-- 🚀 Passionate about solving **real-world problems using data**
-- 🌏 Goal: Work internationally in **AI / Data Science**
+- 📊 Skilled in building **end-to-end ML pipelines & dashboards**
+- 🚀 Passionate about solving **real-world business problems using data**
+- 🌏 Future goal: Work internationally in **Data Science / AI research**
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,c,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" /><br>
-<img src="https://skillicons.dev/icons?i=powerbi,tableau" /><br>
-<img src="https://skillicons.dev/icons?i=html,css" />
+
+<img src="https://skillicons.dev/icons?i=python,sql,c,git,github" />
+<br>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+<br>
+<img src="https://skillicons.dev/icons?i=powerbi" />
+
 </p>
-
----
-
-## 🧠 Core Expertise
-
-- Machine Learning & Predictive Modeling  
-- Natural Language Processing (NLP)  
-- Data Analysis & Visualization  
-- Customer Segmentation (RFM, Clustering)  
-- Business Insights & Dashboarding  
 
 ---
 
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/rj05-ux/rj05-ux/main/Rutuja_Jadhav_Resume_.pdf">
+  <a href="https://github.com/rj05-ux/rj05-ux/blob/main/Rutuja_Jadhav_Resume_.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-00C9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
@@ -53,39 +46,31 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Customer Churn Analysis
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rj05-ux/customer-churn-analysis/main/dashboard.png" width="600"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rj05-ux/customer-churn-analysis">
-    <img src="https://img.shields.io/badge/View%20Project-00C9FF?style=for-the-badge"/>
-  </a>
-</p>
-
-- Built end-to-end ML pipeline  
-- Focused on recall optimization  
+### 🔹 Customer Churn Analysis  
+- ML pipeline for churn prediction  
+- Focus on recall optimization  
 - Feature engineering + evaluation  
 
----
+🔗 <a href="https://github.com/rj05-ux/customer-churn-analysis">View Project</a>
 
-### 🔹 Customer Intelligence System (RFM)
+</td>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rj05-ux/Customer-Intelligence-System-using-RFM-Machine-Learning/main/dashboard.png" width="600"/>
-</p>
+<td width="50%">
 
-<p align="center">
-  <a href="https://github.com/rj05-ux/Customer-Intelligence-System-using-RFM-Machine-Learning">
-    <img src="https://img.shields.io/badge/View%20Project-00C9FF?style=for-the-badge"/>
-  </a>
-</p>
-
-- RFM-based customer segmentation  
-- Clustering for high-value customers  
+### 🔹 Customer Intelligence System (RFM)  
+- Customer segmentation using RFM  
+- Clustering for high-value users  
 - Business dashboard insights  
+
+🔗 <a href="https://github.com/rj05-ux/Customer-Intelligence-System-using-RFM-Machine-Learning">View Project</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -104,16 +89,22 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rj05-ux/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/rj05-ux/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
+## 🏆 Achievements (Add Later)
+
+- 🥇 Built multiple ML projects with real-world datasets  
+- 📊 Strong focus on business-driven analytics  
+- 🚀 Continuously improving ML & AI skills
+
+
+---
 ## 🚧 Currently Working On
 
-- 🔍 Customer Behavior Analysis  
-- 🤖 NLP Resume Screening System  
-- 📊 Power BI Dashboards  
+- 🔍 Customer Behavior Analysis
+-  📊 Power BI Dashboards
 
 ---
 
@@ -129,4 +120,4 @@
   <a href="https://github.com/rj05-ux">
     <img src="https://img.shields.io/badge/GitHub-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</p>    this make correction in sanke graph and add more tools 
