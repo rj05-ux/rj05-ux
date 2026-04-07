@@ -89,7 +89,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/rj05-ux?tab=overview&from=2026-04-01&to=2026-04-07" />
 </p>
 ---
 
