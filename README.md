@@ -77,19 +77,6 @@ A 5-class AAMI arrhythmia classifier (N, S, V, F, Q) built under the **inter-pat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rj05-ux&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rj05-ux&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj05-ux&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚧 Currently Working On
 - 🔬 Finalizing the ECG classification pipeline and JETIR paper submission
 - 📊 Customer Behavior Analysis + Power BI dashboards
