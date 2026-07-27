@@ -5,7 +5,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+for+Sequential+Data;Building+an+EMD-XGBoost-CNN-BiLSTM+ECG+Classifier;Open+to+Data+Science+%2F+ML+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+for+Sequential+Data;Published%3A+CNN-BiLSTM+with+Dual+Attention+for+ECG+Classification;Open+to+Data+Science+%2F+ML+Internships" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ A domain-independent problem-solver with a mathematics background and a growing 
 
 - 🎓 Final-year **MSc Data Science** @ Symbiosis Skills and Professional University, Pune (graduating Aug 2026)
 - 🧮 BSc Mathematics (SPPU) — strong foundation in the theory behind the models I build
-- 🔬 Currently building a hybrid **EMD-XGBoost-CNN-BiLSTM** framework for 5-class ECG arrhythmia classification (AAMI standard, inter-patient paradigm), targeting a JETIR publication
+- 🔬 Published a multi-scale **CNN-BiLSTM with dual attention** framework for 5-class ECG arrhythmia classification (AAMI standard, inter-patient paradigm) in JETIR
 - 💼 Prior internship experience @ MehuTehu Consultancy LLP and CodeClause
 - 🌏 Long-term goal: PhD in Applied AI / Deep Learning (South Korea, GKS track), then research roles in industry AI labs
 - 📫 Reach me: **[LinkedIn](https://linkedin.com/in/rutuja-jadhav-592388321)**
@@ -39,16 +39,17 @@ A domain-independent problem-solver with a mathematics background and a growing 
 
 ## 🚀 Featured Project
 
-### 🔹 ECG Arrhythmia Classification — Hybrid EMD-XGBoost-CNN-BiLSTM
-A 5-class AAMI arrhythmia classifier (N, S, V, F, Q) built under the **inter-patient paradigm** (DS1/DS2 split) on the MIT-BIH dataset — the harder, clinically-honest evaluation standard that most published work avoids.
+### 🔹 ECG Arrhythmia Classification — Multi-Scale CNN-BiLSTM with Dual Attention
 
-- 🧠 67 engineered features: EMD (IMF statistics), waveform morphology, P-wave proxy, RR intervals
-- 📈 **1D-CNN: 88.25% accuracy, Macro-F1 0.530** — outperforms the closest comparable published benchmark by ~5%
-- 🌲 Random Forest: 92.93% accuracy (with documented class-imbalance analysis)
-- 🔍 Diagnosed real failure modes: SMOTE-induced prior-shift miscalibration (XGBoost F-class) vs. genuine feature-separability ceiling (S-class)
-- 📝 Manuscript in progress for JETIR submission
+A 5-class AAMI arrhythmia classifier (N, S, V, F, Q) built under the **inter-patient paradigm** (DS1/DS2 split) on MIT-BIH, with external validation on INCART — the harder, clinically-honest evaluation standard that most published work avoids.
 
-🔗 <a href="https://github.com/rj05-ux/ecg-arrhythmia-classification">View Project</a> &nbsp;|&nbsp; 📄 <a href="#">Paper (coming soon)</a>
+- 🧠 EMD-based feature extraction + MRMR selection, S-class targeted SMOTE for severe class imbalance
+- 📈 **Stacking ensemble: 94.08% accuracy, Macro-F1 0.7611** on MIT-BIH (best of CNN, BiLSTM, and CNN-BiLSTM w/ dual attention, combined)
+- 🔍 Explainability via SHAP and gradient-based saliency — not just a black box
+- 🌍 External validation on INCART (unseen dataset): Macro-F1 drops to 0.3578 — reported honestly as a real generalization gap, not hidden
+- 📝 **Published in JETIR**, Vol. 13, Issue 7 (July 2026)
+
+🔗 <a href="https://github.com/rj05-ux/CNN-BiLSTM-Dual-Attention-ECG-Classification">View Project</a> &nbsp;|&nbsp; 📄 <a href="http://www.jetir.org/view?paper=JETIR2607122">Read the Paper</a>
 
 <table>
 <tr>
@@ -78,9 +79,11 @@ A 5-class AAMI arrhythmia classifier (N, S, V, F, Q) built under the **inter-pat
 ---
 
 ## 🚧 Currently Working On
-- 🔬 Finalizing the ECG classification pipeline and JETIR paper submission
+
+- 📄 A second research paper, building on lessons from the ECG project
 - 📊 Customer Behavior Analysis + Power BI dashboards
 - 🇰🇷 Preparing GKS PhD application (Applied AI / Data Science, 2027 cycle)
+- 🎓 Finishing my MSc thesis and preparing for viva
 
 ---
 
