@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+for+Sequential+Data;Published%3A+CNN-BiLSTM+with+Dual+Attention+for+ECG+Classification;Open+to+Data+Science+%2F+ML+Internships" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rj05-ux&color=00C9FF&style=flat" alt="profile views"/>
-</p>
 
 ---
 
