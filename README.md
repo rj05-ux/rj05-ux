@@ -1,14 +1,11 @@
-<!-- Gradient Header -->
+!-- Gradient Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Rutuja%20Jadhav&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
-
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+for+Sequential+Data;Published%3A+CNN-BiLSTM+with+Dual+Attention+for+ECG+Classification;Open+to+Data+Science+%2F+ML+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+for+Sequential+Data;Building+an+EMD-XGBoost-CNN-BiLSTM+ECG+Classifier;Open+to+Data+Science+%2F+ML+Internships" />
 </p>
-
-
 ---
 
 ## 👋 Hi, I'm Rutuja
