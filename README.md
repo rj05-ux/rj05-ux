@@ -17,7 +17,6 @@ That mindset is basically the whole story behind my ECG project below.
 - Final-year **MSc Data Science** at Symbiosis Skills and Professional University, Pune — graduating August 2026
 - BSc Mathematics (SPPU) underneath all of it, still doing a lot of the quiet work
 - Published a multi-scale **CNN-BiLSTM with dual attention** framework for 5-class ECG arrhythmia classification, evaluated the hard way (inter-patient, AAMI standard)
-- Long-term goal: a PhD in Applied AI / Deep Learning (South Korea, GKS track), then research in an industry AI lab
 - Reach me: **[LinkedIn](https://linkedin.com/in/rutuja-jadhav-592388321)**
 
 ---
