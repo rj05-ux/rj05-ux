@@ -74,8 +74,6 @@ Segmenting customers by Recency, Frequency, Monetary value, then clustering to f
 
 - Rebuilding my fundamentals in public — small, honest projects in [**the-rebuild**](https://github.com/rj05-ux/the-rebuild): Python, SQL, cloud, MLOps
 - Job-searching for Data Science / ML roles
-- Preparing my GKS PhD application (Applied AI / Data Science, 2027 cycle)
-- Finishing my MSc thesis and getting ready for viva
 
 ---
 
