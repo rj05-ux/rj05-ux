@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=750&lines=I+turn+signals+into+decisions.;Currently%3A+ECG+beats%2C+not+heartbeats.;Published+in+JETIR%3A+CNN-BiLSTM+with+Dual+Attention+for+ECG+Classification;Open+to+Data+Science+%2F+ML+roles" />
+  <b>Data Science | Machine Learning | Deep Learning for Sequential Data</b><br>
+  Published in JETIR: CNN-BiLSTM with Dual Attention for ECG Classification<br>
+  Open to Data Science / ML roles
 </p>
 
 ---
