@@ -1,30 +1,28 @@
-<!-- Gradient Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Rutuja%20Jadhav&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+for+Sequential+Data;Published%3A+CNN-BiLSTM+with+Dual+Attention+for+ECG+Classification;Open+to+Data+Science+%2F+ML+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=750&lines=I+turn+signals+into+decisions.;Currently%3A+ECG+beats%2C+not+heartbeats.;Published%3A+CNN-BiLSTM+with+Dual+Attention+for+ECG+Classification;Open+to+Data+Science+%2F+ML+roles" />
 </p>
 
+---
+
+### The short version
+
+I studied mathematics because I wanted to understand *why* things work, not just how to use them. That instinct followed me into data science: I don't just fit a model and report the accuracy, I want to know where it breaks, and I say so.
+
+That mindset is basically the whole story behind my ECG project below.
+
+- Final-year **MSc Data Science** at Symbiosis Skills and Professional University, Pune — graduating August 2026
+- BSc Mathematics (SPPU) underneath all of it, still doing a lot of the quiet work
+- Published a multi-scale **CNN-BiLSTM with dual attention** framework for 5-class ECG arrhythmia classification, evaluated the hard way (inter-patient, AAMI standard)
+- Long-term goal: a PhD in Applied AI / Deep Learning (South Korea, GKS track), then research in an industry AI lab
+- Reach me: **[LinkedIn](https://linkedin.com/in/rutuja-jadhav-592388321)**
 
 ---
 
-## 👋 Hi, I'm Rutuja
-
-A domain-independent problem-solver with a mathematics background and a growing specialization in **applied deep learning for sequential/biomedical data**.
-
-- 🎓 Final-year **MSc Data Science** @ Symbiosis Skills and Professional University, Pune (graduating Aug 2026)
-- 🧮 BSc Mathematics (SPPU) — strong foundation in the theory behind the models I build
-- 🔬 Published a multi-scale **CNN-BiLSTM with dual attention** framework for 5-class ECG arrhythmia classification (AAMI standard, inter-patient paradigm) in JETIR
-- 💼 Prior internship experience @ MehuTehu Consultancy LLP and CodeClause
-- 🌏 Long-term goal: PhD in Applied AI / Deep Learning (South Korea, GKS track), then research roles in industry AI labs
-- 📫 Reach me: **[LinkedIn](https://linkedin.com/in/rutuja-jadhav-592388321)**
-
----
-
-## ⚡ Tech Stack
+### What I actually build with
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,git,github" />
@@ -34,40 +32,36 @@ A domain-independent problem-solver with a mathematics background and a growing 
 
 ---
 
-## 🚀 Featured Project
+### The project I'm proudest of
 
-### 🔹 ECG Arrhythmia Classification — Multi-Scale CNN-BiLSTM with Dual Attention
+#### ECG Arrhythmia Classification — Multi-Scale CNN-BiLSTM with Dual Attention
 
-A 5-class AAMI arrhythmia classifier (N, S, V, F, Q) built under the **inter-patient paradigm** (DS1/DS2 split) on MIT-BIH, with external validation on INCART — the harder, clinically-honest evaluation standard that most published work avoids.
+Most published ECG classifiers report great numbers because they're evaluated the easy way — the same patient's heartbeats leak between training and test. I built this one under the inter-patient paradigm instead (DS1/DS2 split on MIT-BIH), the harder, more clinically honest standard that most work quietly avoids. Then I validated it on a completely unseen dataset (INCART) — because a model that only works on data it's already seen isn't actually useful.
 
-- 🧠 EMD-based feature extraction + MRMR selection, S-class targeted SMOTE for severe class imbalance
-- 📈 **Stacking ensemble: 94.08% accuracy, Macro-F1 0.7611** on MIT-BIH (best of CNN, BiLSTM, and CNN-BiLSTM w/ dual attention, combined)
-- 🔍 Explainability via SHAP and gradient-based saliency — not just a black box
-- 🌍 External validation on INCART (unseen dataset): Macro-F1 drops to 0.3578 — reported honestly as a real generalization gap, not hidden
-- 📝 **Published in JETIR**, Vol. 13, Issue 7 (July 2026)
+- EMD-based feature extraction + MRMR selection, with S-class targeted SMOTE to fight severe class imbalance
+- Stacking ensemble reaches **94.08% accuracy, Macro-F1 0.7611** on MIT-BIH — the best result across CNN, BiLSTM, and CNN-BiLSTM with dual attention, combined
+- Explainability baked in — SHAP and gradient-based saliency, not a black box
+- On the unseen INCART set, Macro-F1 drops to 0.3578. I reported that honestly instead of hiding it, because that gap *is* the finding — it's what real-world generalization actually looks like
+- **Published in JETIR**, Vol. 13, Issue 7 (July 2026)
 
-🔗 <a href="https://github.com/rj05-ux/CNN-BiLSTM-Dual-Attention-ECG-Classification">View Project</a> &nbsp;|&nbsp; 📄 <a href="http://www.jetir.org/view?paper=JETIR2607122">Read the Paper</a>
+🔗 [View Project](https://github.com/rj05-ux/CNN-BiLSTM-Dual-Attention-ECG-Classification) &nbsp;|&nbsp; 📄 [Read the Paper](http://www.jetir.org/view?paper=JETIR2607122)
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🔹 Customer Churn Analysis
-- ML pipeline for churn prediction
-- Focus on recall optimization
-- Feature engineering + evaluation
+**Customer Churn Analysis**
+ML pipeline for churn prediction, built around recall — a missed churner costs more than a false alarm, so I optimized for that.
 
-🔗 <a href="https://github.com/rj05-ux/customer-churn-analysis">View Project</a>
+[View Project](https://github.com/rj05-ux/customer-churn-analysis)
 
 </td>
 <td width="50%">
 
-#### 🔹 Customer Intelligence System (RFM)
-- Customer segmentation using RFM
-- Clustering for high-value users
-- Business dashboard insights
+**Customer Intelligence System (RFM)**
+Segmenting customers by Recency, Frequency, Monetary value, then clustering to find who actually matters to the business.
 
-🔗 <a href="https://github.com/rj05-ux/Customer-Intelligence-System-using-RFM-Machine-Learning">View Project</a>
+[View Project](https://github.com/rj05-ux/Customer-Intelligence-System-using-RFM-Machine-Learning)
 
 </td>
 </tr>
@@ -75,16 +69,14 @@ A 5-class AAMI arrhythmia classifier (N, S, V, F, Q) built under the **inter-pat
 
 ---
 
-## 🚧 Currently Working On
+### Right now
 
-- 📄 A second research paper, building on lessons from the ECG project
-- 📊 Customer Behavior Analysis + Power BI dashboards
-- 🇰🇷 Preparing GKS PhD application (Applied AI / Data Science, 2027 cycle)
-- 🎓 Finishing my MSc thesis and preparing for viva
+- Rebuilding my fundamentals in public — small, honest projects in [**the-rebuild**](https://github.com/rj05-ux/the-rebuild): Python, SQL, cloud, MLOps
+- Job-searching for Data Science / ML roles
+- Preparing my GKS PhD application (Applied AI / Data Science, 2027 cycle)
+- Finishing my MSc thesis and getting ready for viva
 
 ---
-
-## 📬 Contact
 
 <p align="center">
   <a href="mailto:rutujapj1974@gmail.com">
