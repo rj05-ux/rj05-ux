@@ -81,7 +81,6 @@ Segmenting customers by Recency, Frequency, Monetary value, then clustering to f
 ### What's next
 
 - **TrafficNet (rebuild)** — reworking my MSc third-semester project into a properly engineered, portfolio-grade pipeline: night-enhancement CNN + YOLOv8 detection + DeepSORT tracking + line-crossing vehicle counting on highway CCTV footage.
-- **Automated Email Reply Generator** — a Streamlit + OpenAI-powered app that takes an incoming email and generates a polished, tone-controlled reply (Formal/Casual) in seconds.
 
 ---
 
