@@ -70,6 +70,16 @@ Segmenting customers by Recency, Frequency, Monetary value, then clustering to f
 
 ---
 
+### Other practice work
+
+Smaller projects from internships and self-paced learning — less polished than the work above, but part of the same habit of building in public.
+
+- 🔗 [TechnoHacks Internship Projects](https://github.com/rj05-ux/TechnoHacks-Internship---Projects)
+- 🔗 [CodSoft Internship Projects](https://github.com/rj05-ux/CODSOFT)
+- 🔗 [Code Clause Internship Projects](https://github.com/rj05-ux/Code-Clause-Intership-Projects)
+
+---
+
 ### Right now
 
 - Rebuilding my fundamentals in public — small, honest projects in [**the-rebuild**](https://github.com/rj05-ux/the-rebuild): Python, SQL, cloud, MLOps
