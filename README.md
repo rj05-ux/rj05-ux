@@ -10,7 +10,7 @@
 
 ---
 
-### A quick intro
+### Where I'm coming from
 
 I studied mathematics because I wanted to understand *why* things work, not just how to use them. That instinct followed me into data science: I don't just fit a model and report the accuracy, I want to know where it breaks, and I say so.
 
