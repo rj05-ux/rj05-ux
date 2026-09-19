@@ -40,9 +40,9 @@ That mindset is basically the whole story behind my ECG project below.
 Most published ECG classifiers report great numbers because they're evaluated the easy way — the same patient's heartbeats leak between training and test. I built this one under the inter-patient paradigm instead (DS1/DS2 split on MIT-BIH), the harder, more clinically honest standard that most work quietly avoids. Then I validated it on a completely unseen dataset (INCART) — because a model that only works on data it's already seen isn't actually useful.
 
 - EMD-based feature extraction + MRMR selection, with S-class targeted SMOTE to fight severe class imbalance
-- Stacking ensemble reaches **94.08% accuracy, Macro-F1 0.7611** on MIT-BIH — the best result across CNN, BiLSTM, and CNN-BiLSTM with dual attention, combined
-- Explainability baked in — SHAP and gradient-based saliency, not a black box
-- On the unseen INCART set, Macro-F1 drops to 0.3578. I reported that honestly instead of hiding it, because that gap *is* the finding — it's what real-world generalization actually looks like
+- Stacking ensemble reaches **94.08% accuracy, Macro-F1 0.7611** on MIT-BIH the best result across CNN, BiLSTM, and CNN-BiLSTM with dual attention, combined
+- Explainability baked in SHAP and gradient-based saliency, not a black box
+- On the unseen INCART set, Macro-F1 drops to 0.3578. I reported that honestly instead of hiding it, because that gap *is* the finding it's what real-world generalization actually looks like
 - **Published in JETIR**, Vol. 13, Issue 7 (July 2026)
 
 🔗 [View Project](https://github.com/rj05-ux/CNN-BiLSTM-Dual-Attention-ECG-Classification) &nbsp;|&nbsp; 📄 [Read the Paper](http://www.jetir.org/view?paper=JETIR2607122)
@@ -52,7 +52,7 @@ Most published ECG classifiers report great numbers because they're evaluated th
 <td width="50%">
 
 **Customer Churn Analysis**
-ML pipeline for churn prediction, built around recall — a missed churner costs more than a false alarm, so I optimized for that.
+ML pipeline for churn prediction, built around recall a missed churner costs more than a false alarm, so I optimized for that.
 
 [View Project](https://github.com/rj05-ux/customer-churn-analysis)
 
