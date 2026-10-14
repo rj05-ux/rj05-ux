@@ -37,7 +37,7 @@ That mindset is basically the whole story behind my ECG project below.
 
 #### ECG Arrhythmia Classification — Multi-Scale CNN-BiLSTM with Dual Attention
 
-Most published ECG classifiers report great numbers because they're evaluated the easy way — the same patient's heartbeats leak between training and test. I built this one under the inter-patient paradigm instead (DS1/DS2 split on MIT-BIH), the harder, more clinically honest standard that most work quietly avoids. Then I validated it on a completely unseen dataset (INCART) — because a model that only works on data it's already seen isn't actually useful.
+Most published ECG classifiers report great numbers because they're evaluated the easy way the same patient's heartbeats leak between training and test. I built this one under the inter-patient paradigm instead (DS1/DS2 split on MIT-BIH), the harder, more clinically honest standard that most work quietly avoids. Then I validated it on a completely unseen dataset (INCART) because a model that only works on data it's already seen isn't actually useful.
 
 - EMD-based feature extraction + MRMR selection, with S-class targeted SMOTE to fight severe class imbalance
 - Stacking ensemble reaches **94.08% accuracy, Macro-F1 0.7611** on MIT-BIH the best result across CNN, BiLSTM, and CNN-BiLSTM with dual attention, combined
@@ -82,7 +82,7 @@ Smaller projects from internships and self-paced learning — less polished than
 
 ### Right now
 
-- Rebuilding my fundamentals in public — small, honest projects in [**the-rebuild**](https://github.com/rj05-ux/the-rebuild): Python, SQL, cloud, MLOps
+- Rebuilding my fundamentals in public small, honest projects in [**the-rebuild**](https://github.com/rj05-ux/the-rebuild): Python, SQL, cloud, MLOps
 - Job-searching for Data Science / ML roles
 
 ---
